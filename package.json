@@ -1,0 +1,15 @@
+{
+	"name": "dev-starter-kit",
+	"private": true,
+	"version": "1.0.0",
+	"type": "module",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"dependencies": {
+		"enquirer": "^2.4.1",
+		"figlet": "^1.8.1",
+		"ora": "^8.2.0"
+	}
+}
